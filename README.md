@@ -7,5 +7,5 @@ the second two prompts query for inputs for the problem with four lightbulbs.
 
 In order to input correct values to the program,type in numbers seperated by commas without spaces.
 For example: if queried for the voltage of the battery and resistances of the nine resistors,
-input values that look like this: 18,145,225,65,95,245,115,210,140,70 : then click "Ok".
+input values that look like this: 18,145,225,65,95,245,115,210,140,70 then click "Ok".
 For the lightbulb problems, there would be only five values seperated by commas instead of ten.
