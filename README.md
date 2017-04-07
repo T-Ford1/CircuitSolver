@@ -1,7 +1,7 @@
 # CircuitSolver
 a java program that iterates to solve a MyOpenMath circuit problem. Could potentially solve any circuit problem...
 
-this contains a runnable jar file that pops up with a promp to input values for a circuit.
+This contains a runnable jar file that pops up with a promp to input values for a circuit.
 the first two prompts query the user with information for the first two large circuit problems.
 the second two prompts query for inputs for the problem with four lightbulbs.
 
